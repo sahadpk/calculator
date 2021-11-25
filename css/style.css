@@ -1,0 +1,31 @@
+.calc{
+    width: 400px;
+    height: 600px;
+    background: gray;
+    margin-left: 400px;
+
+}
+#screen{
+    width: 80%;
+    height:70px;
+    margin-left: 36px;
+    pointer-events: none;
+    margin-top: 30px;
+}
+.btn{
+    width: 45px;
+    height: 45px;
+    margin-left: 40px;
+    margin-top: 50px;
+    background-color: bisque;
+}
+@media only screen and(max-width: 100%){
+
+}
+  @media only screen and(min-width: 100%) {
+    
+        }
+    
+
+
+    
